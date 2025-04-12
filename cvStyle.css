@@ -1,0 +1,25 @@
+header{
+    display: grid;
+    background-color: yellow;
+    padding: 15px;
+    grid-template-columns: 500px auto;
+    grid-template-rows: max-content;
+    border-radius: 25px;
+    height: 25vh;
+    place-items: center;
+}
+nameCV{
+    padding: auto;
+    width: 80vh;
+    justify-content: center;
+}
+
+img{
+align-items: self-end;
+border: 1px black solid;
+border-radius: 25px;
+width:auto;
+height: 20vh;
+padding: 15px;
+background-color: aliceblue;
+}
